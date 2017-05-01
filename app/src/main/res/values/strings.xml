@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+
+    <integer-array name="random_imgs">
+        <item>@drawable/emergency_logo</item>
+        <item>@drawable/transport_logo</item>
+        <item>@drawable/food_logo</item>
+        <item>@drawable/heritage_logo</item>
+        <item>@drawable/amusement_logo</item>
+        <item>@drawable/fest_logo</item>
+    </integer-array>
+</resources>
